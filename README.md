@@ -27,6 +27,9 @@ Ajay Marathe
 + https://github.com/ajaymarathe
 + http://bootcatch.com
 + http://bootcatch.com/lightly
+```
+If you like my work then please give ⭐ and do follow me :P
+```
 
 ## Copyright and License
 
