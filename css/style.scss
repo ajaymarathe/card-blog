@@ -35,6 +35,7 @@ body{
   margin-top: 3rem;
   .card{
     border: 0;
+    margin-bottom: 1rem;
   }
 }
 
@@ -66,7 +67,18 @@ body{
   h1{
     font-weight: 500;
   }
+  .subscribe{
+    height: 50vh;
+  }
 }
+
+// For mobile device 
+@media only screen and (max-width: 768px) {
+  .subscribe{
+    height: 30vh !important;
+  }
+}
+
 
 //fourth-section
 .fourth-section{
