@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
 body {
-  background: #F8F9FA;
-  font-family: 'Poppins', sans-serif !important;
+  background: #f8f9fa;
+  font-family: "Poppins", sans-serif !important;
 }
 
 .btn {
@@ -67,7 +67,7 @@ body {
 .third-section {
   margin-top: 3rem;
   margin-bottom: 3rem;
-  background-image: url("../img/backround/team.png");
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
   background-position: center;
   background-size: cover;
 }
